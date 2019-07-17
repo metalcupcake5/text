@@ -20,6 +20,6 @@ console.log(text.toProperCase("this is a test sentence");
 //Returns "This Is A Test Sentence"
 
 console.log(text.getWord(2, "this is a test sentence");
-//Returns "is"
+//Returns "is", the 2nd word of the sentence
 
 ```
