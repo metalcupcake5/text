@@ -4,6 +4,7 @@
   "description": "An npm module for text",
   "main": "index.js",
   "keywords": [],
+  "repository": "metalcupcake5/text",
   "author": "metalcucpake5",
-  "license": "ISC"
+  "license": "MIT"
 }
