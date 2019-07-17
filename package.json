@@ -1,6 +1,6 @@
 {
   "name": "@metalcupcake5/text",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "An npm module for text",
   "main": "index.js",
   "keywords": [],
