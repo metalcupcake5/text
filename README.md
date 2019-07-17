@@ -3,7 +3,7 @@
 ![npm](https://img.shields.io/npm/v/@metalcupcake5/text.svg)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@metalcupcake5/text.svg)](https://www.npmjs.com/package/@metalcupcake5/text)
 
-A npm module for text
+A npm module with usefull features for text
 
 ## Install
 
